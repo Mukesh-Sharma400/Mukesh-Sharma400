@@ -1,9 +1,26 @@
-Hello, I'm Mukesh Sharma 💻, an aspiring IT professional with a background in web development 🌐. Currently, I am gaining hands-on experience as a Web Developer Intern at App Avengers Technologies 🏢. Prior to this, I had the privilege of interning as a Project Intern at NullClass for two months in December 2022 to January 2023 📆. During the period from August 2021 to October 2022, I dedicated my time to learning the ins and outs of the MERN Stack 🛠️, which involved working on various small projects.
 
-My journey in the IT industry has been an exciting learning experience 🚀. I'm enthusiastic about building web applications 🏗️ and honing my skills in technologies like MongoDB, Express, React, and Node.js ⚙️. I aim to create efficient and user-friendly applications, with a focus on RESTful APIs 🤝, database integration 💾, and client-side functionality using React ⚛️. I'm also familiar with popular tools such as Redux, Sass, and Bootstrap 🎨.
+## 🚀 About Me
+Hi, I'm Mukesh Sharma, an aspiring IT professional currently working as a Web Developer Intern at App Avengers Technologies. Previously, I interned at NullClass and dedicated time to mastering the MERN Stack. My focus is on building efficient and user-friendly web applications, specializing in MongoDB, Express, React, and Node.js. I'm adept at using tools like Redux, Sass, and Bootstrap.
 
-While my professional journey is just beginning, I have had the opportunity to collaborate with a range of clients and industries, from startups to established companies 🤝. This diverse exposure has allowed me to adapt to varying project requirements and work effectively in diverse teams 👥.
+Despite being early in my career, I've collaborated with diverse clients and industries, adapting to varying project requirements. As a self-motivated individual, I continuously seek opportunities to enhance my skills and tackle challenges, emphasizing the importance of clean, maintainable, and reusable code. If you're looking for an enthusiastic IT fresher passionate about web development, feel free to reach out for potential collaborations.
+## ⚙️ Tech Stack
 
-I'm a self-motivated individual, continually seeking opportunities to enhance my skills and explore new technologies 💡. Problem-solving is a strength of mine, and I thrive when faced with challenges 🧩. I strongly believe in the significance of clean, maintainable, and reusable code ♻️.
+**Client:** React, Redux.
 
-If you're in need of an enthusiastic IT fresher with a passion for web development, please feel free to get in touch. I'm always open to new opportunities and collaborative ventures 🤝.
+**Server:** Node, Express.
+
+**Database:** MongoDB.
+## 🛠 Skills
+HTML, CSS, JavaScript, MongoDB, ExpressJS, ReactJS, NodeJS, NextJS, AngularJS, Styled Components, Bootstrap CSS, Tailwind CSS, Material UI and more.
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-ffffff?style=for-the-badge&logo=ko-fi&logoColor=black)](https://mukesh-sharma.vercel.app)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-sharma-dev)
+
+[![twitter](https://img.shields.io/badge/twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mukesh_sharma36)
+
+[![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MukeshSharma400)
+
+[![instagram](https://img.shields.io/badge/instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mukesh_sharma400)
+
+[![threads](https://img.shields.io/badge/threads-000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@mukesh_sharma400)
