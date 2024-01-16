@@ -18,7 +18,7 @@ I specialize in:
 
 [![Portfolio](https://img.shields.io/badge/my_portfolio-ffffff?style=for-the-badge&logo=ko-fi&logoColor=black)](https://mukesh-sharma.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-sharma-dev)
-[![Twitter](https://img.shields.io/badge/twitter/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mukesh_sharma36)
+[![Twitter](https://img.shields.io/badge/twitter_/_x-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mukesh_sharma36)
 [![Facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MukeshSharma400)
 [![Instagram](https://img.shields.io/badge/instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mukesh_sharma400)
 [![Threads](https://img.shields.io/badge/threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@mukesh_sharma400)
