@@ -1,6 +1,6 @@
 # Hello! I'm Mukesh 👋
 
-Hi, I'm Mukesh Sharma, an aspiring IT professional currently thriving as a Web Developer Intern at App Avengers Technologies. Previously, I honed my skills as an intern at NullClass, dedicating time to mastering the MERN Stack. My passion lies in crafting efficient and user-friendly web applications, with expertise in MongoDB, Express, React, and Node.js. I'm also well-versed in utilizing tools like Redux, Sass, and Bootstrap.
+Hi, I'm Mukesh Sharma, an aspiring IT professional currently thriving as a Web Developer at App Avengers Technologies. Previously, I honed my skills as an intern at NullClass, dedicating time to mastering the MERN Stack. My passion lies in crafting efficient and user-friendly web applications, with expertise in MongoDB, Express, React, and Node.js. I'm also well-versed in utilizing tools like Redux, Sass, and Bootstrap.
 
 ## 💼 Experience
 
